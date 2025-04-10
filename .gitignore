@@ -3,4 +3,16 @@ sample_submission.csv
 train.csv
 test.csv
 mlenv
-
+series_train.parquet
+series_test.parquet
+submission.csv
+test_ft.csv
+train_ft.csv
+train_values_impute.csv
+test_values_impute.csv
+test_values_merge.csv
+train_values_merge.csv
+cmi.py
+covariance_matrix.csv
+final_values.csv
+actigraphyEDA.ipynb
